@@ -1,5 +1,5 @@
 <?php include 'include_header.php' ?>
-<form action="handler_add-project.php" method="post">
+<form action="handler_add-articles.php" method="post">
     <div>
         <label for="input_title">Title: </label>
         <input type="text" id="input_title" name="data_title">
